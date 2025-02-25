@@ -1,0 +1,2 @@
+This file was created to create a new commit. Jenkins has Poll SCM configured to
+check git repository every minute. So it will trigger a new build job!!!
